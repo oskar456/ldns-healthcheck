@@ -4,10 +4,10 @@
 # Licence: GNU GPLv2
 
 
-    from collections import defaultdict
+from collections import defaultdict
 
-    import ldnsx
-    import sys
+import ldnsx
+import sys
 
 system_res = ldnsx.resolver();
 
